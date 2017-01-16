@@ -1,4 +1,5 @@
 ﻿git의 구조
+<<<<<<< HEAD
 
 dd
 d
@@ -11,3 +12,5 @@ d
 1231
 
 lllllllllllllllllll
+=======
+>>>>>>> parent of 05c132d... third commit
