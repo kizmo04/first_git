@@ -8,6 +8,7 @@
 두번째 수정사항입니다
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 
@@ -30,3 +31,5 @@
 
 
 sdfsdfdfsfsdf
+=======
+>>>>>>> 5cee8cef3473a27b6eac9b8095fb32cff81afa6e
