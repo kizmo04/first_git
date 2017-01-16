@@ -4,32 +4,19 @@
 **********
 뿅
 
-
 두번째 수정사항입니다
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-
 
 이것은 지우면안됩니다22
 
-
-
 지우면 안됩니다 3333
-=======
+
 세번째 수정사항입니다
 
 네번째 수정사항입니다
 
-
 다섯번째 수정사항입니다.
-=======
->>>>>>> parent of eef9390... third commit
->>>>>>> parent of 682e1fd... sixth commit
-
 
 sdfsdfdfsfsdf
-=======
->>>>>>> 5cee8cef3473a27b6eac9b8095fb32cff81afa6e
+
+
+# 충돌을 수정했습니다. by jeeyong
