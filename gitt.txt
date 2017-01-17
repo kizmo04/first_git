@@ -5,8 +5,6 @@
 
 
 git의 구조
-<<<<<<< HEAD
-
 dd
 d
 d
